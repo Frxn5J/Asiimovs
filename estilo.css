@@ -1,0 +1,15 @@
+h1{
+    text-align:center;
+}
+h2{color:gray};
+p{
+    font-family:Arial;
+    font-size:16px;
+}
+.resaltado{
+    color:blue;
+}
+p{
+    color: orangered;
+    font-size: 40px;
+}
